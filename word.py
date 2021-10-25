@@ -1,5 +1,5 @@
-{
-  "words": [
+# this is a list containing all english words for this game
+words = [
     "aback",
     "abaft",
     "abandoned",
@@ -2466,5 +2466,4 @@
     "zonked",
     "zoo",
     "zoom"
-  ]
-}
+]
