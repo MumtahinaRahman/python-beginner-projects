@@ -8,5 +8,6 @@ class Player:
         self.letter = letter
 
     # still don't know what "game" is yet
+    # What does this method do?
     def get_move(self, game):
         pass
